@@ -22,8 +22,7 @@ This is a cutting-edge tool designed to keep you safe from phishing attempts, ma
 ### 1. Clone the Repository
 
 ```bash
-git clone --recurse-submodules https://github.com/sinch-billava935/Browser-Based-ML-Phishing-Detector.git
-```
+git clone --recurse-submodules https://github.com/Snehakp31/Browser-Based-ML-Phising-Detector.git
 
 Install dependencies:
 
